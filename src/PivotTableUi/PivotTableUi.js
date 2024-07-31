@@ -1586,6 +1586,7 @@ class PivotTableUi extends EventEmitter {
 
 var pivotTableUi;
 function initPivotTableUi(){
+  //debugger
   pivotTableUi = new PivotTableUi({
     id: 'pivotTableUi',
     queryModel: queryModel,

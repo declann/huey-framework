@@ -29,6 +29,11 @@ export default {
   // footer: "Built with Observable.", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
+  pager: false,
+  toc: false,
+  header: false,
+  footer: false,
+  sidebar: false,
   // pager: true, // whether to show previous & next links in the footer
   // output: "dist", // path to the output root for build
   // search: true, // activate search

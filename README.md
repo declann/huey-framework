@@ -5,7 +5,9 @@ I did:
 - remove line breaks from html in md (o/w split in multiple blocks, breaks)
 - make domClassNames = getClassNames be domClassNames = getClassNamesEl and rename one function (dom.js)
 
-Still not working: I guess selectors are failing.
+Still not working: I guess selectors are failing. Only the very top header of uI is showing.
+
+I got the rest showing by manually deleting OHQ div and main in devtools.
 
 
 # using huey, which is:
